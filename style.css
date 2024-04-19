@@ -10,7 +10,7 @@ html, body{
     background-position: center;
 }
 
-.container-fluid .btn.btn-outline-dark {
+.container-fluid .row .row .col .btn.btn-outline-dark {
     margin-top: 20px;
     margin-bottom: 20px;
 }
