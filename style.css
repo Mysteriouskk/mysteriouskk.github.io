@@ -4,7 +4,15 @@ html, body{
 
 .container-fluid{
     height: 100%;
-    background-color:blanchedalmond;
+    background-image: url('image/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.btn btn-outline-light {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #main {
