@@ -10,6 +10,12 @@ html, body{
     background-position: center;
 }
 
+.container-fluid .row .row .col .d-grid.gap-2.col-6.mx-auto .img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
 .container-fluid .row .row .col .btn.btn-outline-dark {
     margin-top: 20px;
     margin-bottom: 20px;
