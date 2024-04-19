@@ -10,7 +10,7 @@ html, body{
     background-position: center;
 }
 
-.btn.btn-outline-light {
+.container-fluid .btn.btn-outline-light {
     margin-top: 20px;
     margin-bottom: 20px;
 }
