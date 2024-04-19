@@ -23,7 +23,6 @@ html, body{
 
 .container-fluid .row .row .col-7 {
     display: flex; /* 使用 flex 布局 */
-    justify-content: flex-start; /* 使按鈕靠左 */
     align-items: center; /* 垂直居中 */
     margin-top: 20px;
     margin-bottom: 20px;
