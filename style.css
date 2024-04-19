@@ -49,9 +49,20 @@ html, body{
     margin: 0 auto;
 }
 
+.container-fluid footer p {
+    font-size: 14px;
+}
+
+
 #main {
     padding-top: 10%;
     padding-bottom: 10%;
     padding-right: 10%;
     padding-left: 10%;
+}
+
+@media (max-width: 900px) {
+    .container-fluid footer p {
+        font-size: 12px;
+    }
 }
