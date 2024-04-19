@@ -7,7 +7,7 @@ html, body{
     background-color:blanchedalmond;
 }
 
-.row#main {
+#main {
     margin-top: 10%;
     margin-bottom: 10%;
     margin-right: 5%;
