@@ -8,8 +8,8 @@ html, body{
 }
 
 #main {
-    margin-top: 10%;
-    margin-bottom: 10%;
-    margin-right: 5%;
-    margin-left: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
