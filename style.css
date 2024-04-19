@@ -10,6 +10,11 @@ html, body{
     background-position: center;
 }
 
+.container-fluid .row.align-items-center {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
 .container-fluid .row.align-items-center .row .col-5 img{
     margin-top: 20px;
     margin-bottom: 20px;
